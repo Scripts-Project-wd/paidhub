@@ -9,5 +9,5 @@ local MainSection = Main:NewSection("Dupe")
 MainSection:NewButton("dupe", "dupe takes 2 mins", function()
  
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Scripts-Project-wd/opopop/main/Opdogegyt"))()
-loadstring(game:HttpGet(https://raw.githubusercontent.com/HardGameSs/PSX/main/Script.lua"))()
+
 end)
