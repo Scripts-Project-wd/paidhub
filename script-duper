@@ -1,13 +1,13 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
 
-local Window = Library.CreateLib("CHHI dupe (paid)", "BloodTheme")
+local Window = Library.CreateLib(" dupehub (paid)", "BloodTheme")
 
 local Main = Window:NewTab("Main")
 
 local MainSection = Main:NewSection("Dupe")
 
-MainSection:NewButton("dupe", "dupe takes 5mins", function()
+MainSection:NewButton("dupe", "dupe takes 2 mins", function()
  
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Scripts-Project-wd/dupe/main/Scripts"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Scripts-Project-wd/opopop/main/Opdogegyt"))()
 
 end)
